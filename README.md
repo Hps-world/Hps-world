@@ -8,12 +8,10 @@
     I’m passionate about building scalable web applications and integrating AI to make digital experiences smarter and faster. 
     I love learning new technologies, optimizing systems, and turning creative ideas into working products.
   </p>
-
-  <!-- GIF aligned to the right -->
-
-    <img src="./assets/intro.gif" alt="Himanshu intro animation" width="380" style="border-radius: 10px;" align="right" />
-
 </div>
+ <!-- GIF aligned to the right -->
+
+<img src="./assets/intro.gif" alt="Himanshu intro animation" width="250" style="border-radius: 10px;" align="right" />
 
 # 💫 About Me:
 🔭 I’m currently working on a Speech-to-Text AI project using MERN stack and Python.<br>👯 I’m looking to collaborate on AI-powered web applications and open-source projects.<br>🤝 I’m looking for help with optimizing backend performance and deploying scalable apps.<br>🌱 I’m currently learning Machine Learning, SQL, and Advanced React patterns.<br>💬 Ask me about Full Stack Development, API integration, and Git workflow.<br>⚡ Fun fact: I love automating small daily tasks — I once built a bot that plays Cookie Clicker by itself 😄
