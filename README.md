@@ -10,9 +10,9 @@
   </p>
 
   <!-- GIF aligned to the right -->
-  <div align="right">
-    <img src="./assets/intro.gif" alt="Himanshu intro animation" width="380" style="border-radius: 10px;" />
-  </div>
+
+    <img src="./assets/intro.gif" alt="Himanshu intro animation" width="380" style="border-radius: 10px;" align="right" />
+
 </div>
 
 # 💫 About Me:
