@@ -2,6 +2,11 @@
 🔭 I’m currently working on a Speech-to-Text AI project using MERN stack and Python.<br>👯 I’m looking to collaborate on AI-powered web applications and open-source projects.<br>🤝 I’m looking for help with optimizing backend performance and deploying scalable apps.<br>🌱 I’m currently learning Machine Learning, SQL, and Advanced React patterns.<br>💬 Ask me about Full Stack Development, API integration, and Git workflow.<br>⚡ Fun fact: I love automating small daily tasks — I once built a bot that plays Cookie Clicker by itself 😄
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hps-world&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/er_himanshu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/profitables_world) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-pratap-singh-b4999715b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ThakurSahab00) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.himanshupratap@gmail.com) 
