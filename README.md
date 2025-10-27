@@ -1,16 +1,19 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Farzeen+Ali+👨🏻‍💻;" />
-</h1>
+<a style="text-align: center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Himanshu+Pratap+Singh" alt="Typing SVG" /></a>
 <div>
   <h1>👋 Hi, I'm Himanshu Pratap Singh</h1>
   <hr />
   <p>🚀 <strong>Full Stack Developer | Python &amp; AI Enthusiast | Problem Solver</strong></p>
-  <p>I’m passionate about building scalable web applications and integrating AI to make digital experiences smarter and faster. I love learning new technologies, optimizing systems, and turning creative ideas into working products.</p>
-</div>
-<p style="text-align:right;">
-    <img src="./assets/intro.gif" alt="Himanshu intro animation" width="480" />
+  <p>
+    I’m passionate about building scalable web applications and integrating AI to make digital experiences smarter and faster. 
+    I love learning new technologies, optimizing systems, and turning creative ideas into working products.
   </p>
+
+  <!-- GIF aligned to the right -->
+  <div style="text-align: right;">
+    <img src="./assets/intro.gif" alt="Himanshu intro animation" width="380" style="border-radius: 10px;" />
+  </div>
 </div>
+
 # 💫 About Me:
 🔭 I’m currently working on a Speech-to-Text AI project using MERN stack and Python.<br>👯 I’m looking to collaborate on AI-powered web applications and open-source projects.<br>🤝 I’m looking for help with optimizing backend performance and deploying scalable apps.<br>🌱 I’m currently learning Machine Learning, SQL, and Advanced React patterns.<br>💬 Ask me about Full Stack Development, API integration, and Git workflow.<br>⚡ Fun fact: I love automating small daily tasks — I once built a bot that plays Cookie Clicker by itself 😄
 ## 🏆 GitHub Trophies
