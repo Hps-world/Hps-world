@@ -1,4 +1,5 @@
-<a style="text-align: center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Himanshu+Pratap+Singh" alt="Typing SVG" /></a>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF868600&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Himanshu+Pratap+Singh" alt="Typing SVG" /></a>
+</div>
 <div>
   <h1>👋 Hi, I'm Himanshu Pratap Singh</h1>
   <hr />
